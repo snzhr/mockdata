@@ -259,5 +259,51 @@
       "title": "Directives"
     }
   ],
-"lessons": []
+  "lessons": [],
+  "instructors": [
+    {
+      "activated": true,
+      "briefInfo": "",
+      "creationTime": "2022-05-20T11:40:10Z",
+      "earnings": 0,
+      "email": "sake123@gmail.com",
+      "facebook": "",
+      "id": "1",
+      "imgUrl": "",
+      "instagram": "",
+      "lastUpdateTime": "2022-06-20T11:40:10Z",
+      "name": "Sanzhar",
+      "phone": "+996703637322",
+      "rating": 0,
+      "role": "instructor",
+      "surname": "Zhenishbek uulu",
+      "telegram": "",
+      "title": "",
+      "uid": "1s",
+      "verified": true,
+      "whatsApp": ""
+    },
+    {
+      "activated": true,
+      "briefInfo": "",
+      "creationTime": "2022-05-20T11:40:10Z",
+      "earnings": 0,
+      "email": "kurmanbek1@gmail.com",
+      "facebook": "",
+      "id": "2",
+      "imgUrl": "",
+      "instagram": "",
+      "lastUpdateTime": "2022-06-20T11:40:10Z",
+      "name": "Kurmanbek",
+      "phone": "+996700123456",
+      "rating": 0,
+      "role": "instructor",
+      "surname": "Bazarbaev",
+      "telegram": "",
+      "title": "",
+      "uid": "2k",
+      "verified": true,
+      "whatsApp": ""
+    }
+  ]
 }
